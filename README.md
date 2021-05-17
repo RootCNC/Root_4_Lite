@@ -2,11 +2,12 @@
 
 # Root 4 LITE CNC - High Performance small scale 3D Printed CNC Machine 
 
-Root 4 Lite is deisgned to be a low cost high performance CNC machine that anyone can make at home.
+Root 4 Lite is deisgned to be a **low cost high performance CNC machine** that anyone can make at home.
 
 <img align="center" width=600 src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/Root_4_Lite.jpg" />
 
-- Low Cost (Under £550)
+### Goals
+- Low Cost (Under £500)
 - All bal screw design for percision movement
 - Support for High performance VFD spindles
 - Use low Cost NEMA17 Stepper motors
