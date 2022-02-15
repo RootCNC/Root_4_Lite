@@ -17,7 +17,7 @@ Root 4 Lite is deisgned to be a **low cost high performance CNC machine** that a
 - Scaleable
 
 ## Spec
-- Working Area = 224*280*75mm (Z,Y,Z) - Default build for other diemensions please see [LINK](https://github.com/RootCNC/Root_4_Lite/blob/main/Working%20Area.xlsx)
+- Working Area = 224*280*60mm (Z,Y,Z) - Default build for other diemensions please see [LINK](https://github.com/RootCNC/Root_4_Lite/blob/main/Working%20Area.xlsx)
 - Stepper Motor = NEMA 17 
 - Aux rails for mounting a laser or dust shoe
 - All ballscrew design
