@@ -58,7 +58,7 @@
 |Lead Screw 1204 400mm Long SFU1204               | Yes       | 3      |[LINK](https://s.click.aliexpress.com/e/_9jDD3X),  [UK LINK](https://amzn.to/3eQJNLg)|
 |Lead Screw 1204 200mm Long SFU1204               | Yes       | 1      |[LINK](https://s.click.aliexpress.com/e/_Akbvnn), [UK LINK](https://amzn.to/3olI2sE)|
 |Lead Screw ball nut Housing/Mount  SFU1204              | Yes       |  3     |[LINK](https://s.click.aliexpress.com/e/_Ak3HhT), [UK LINK](https://amzn.to/3whPGqP)|
-|FK10 Bearing Block               | Yes       |  3     |[LINK](https://s.click.aliexpress.com/e/_9RmTwd)|
+|FK10 Bearing Block               | Yes       |  4     |[LINK](https://s.click.aliexpress.com/e/_9RmTwd)|
 |5mm to 8mm coupler               | Yes       | 3      |[LINK](https://s.click.aliexpress.com/e/_9AhiTb)  [UK LINK](https://amzn.to/3bwfNC8)|
 |Drag Chain 10x20mm internal - 50cm              | Yes       |  2     |[LINK](https://s.click.aliexpress.com/e/_9wV1qz),  [UK LINK](https://amzn.to/3eURTm5)|
 
