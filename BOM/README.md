@@ -77,6 +77,7 @@ Below is guide on the QTY required/ the pack sizes I brought to assemble the Roo
 |	M3 PAN HEAD 20MM BOLT	|	Yes	|	30 (*1)	|
 |	M3 PAN HEAD 25MM BOLT	|	Yes	|	30 (*1)	|
 |	M3 PAN HEAD 30MM BOLT	|	Yes	|	30 (*1)	|
+|	M3 CAP HEAD  10MM BOLT	|	Yes	|	30 (*1)	|
 |	M3 CAP HEAD  14MM BOLT	|	Yes	|	30 (*1)	|
 |	M3 CAP HEAD  16MM BOLT	|	Yes	|	30 (*1)	|
 |	M3 CAP HEAD  25MM BOLT	|	Yes	|	30 (*1)	|
@@ -92,7 +93,7 @@ Below is guide on the QTY required/ the pack sizes I brought to assemble the Roo
 |	M5 PAN HEAD 20MM BOLT	|	Yes	|	20 (*1)	|
 |	M5 PAN HEAD 30MM BOLT	|	Yes	|	20 (*1)	|
 |	M5 PAN HEAD 60MM BOLT	|	Yes	|	16	|
-|	M5 WASHERS	|	Yes	|	112	|
+|	M5 WASHERS	|	Yes	|	128	|
 |	M5 NUTS	|	Yes	|	100 (*1)	|
 |	M5 LOC NUTS	|	Yes	|	100  (*1)	|
 |	M5 KNURLED THUMB NUTS 	|	Yes	|	4	|
