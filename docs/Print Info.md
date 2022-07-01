@@ -19,8 +19,11 @@ Infill: 50-60%
 - Print with ABS, PETG PLA will be fine though your mileage may vary (I am worried about the low glass transistion point of PLA being too low for the motors)
 
 # DustShoe_Bottom.STL
+
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/dustshoe_bottom.png" width="600">
+
 # DustShoe_Rail_Right.STL
+
 > For the left side - Please mirror in your slicer
 {.is-info}
 
