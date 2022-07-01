@@ -32,7 +32,7 @@ Infill: 50-60%
 # X_Aixs_DragChainMount.STL.
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/x_aixs_dragchainmount.png" width="600">
 
-\n# X_Axis_BearingIdler.STL
+# X_Axis_BearingIdler.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/x_axis_bearingidler.png" width="600">
 
 # X_Axis_BoxMount.STL
