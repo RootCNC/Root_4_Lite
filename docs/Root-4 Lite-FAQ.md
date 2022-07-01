@@ -1,12 +1,12 @@
-<!--
-title: Root CNC
-description: Project Info
+---
+title: Root 4 Lite FAQ
+description: Root 4 Lite FAQ for Newbies
 published: true
-date: 2022-03-10T12:31:29.840Z
-tags: 
-editor: ckeditor
-dateCreated: 2022-03-10T12:31:08.799Z
--->
+date: 2022-06-28T21:37:30.411Z
+tags: root 4 lite, r4 lite, guide
+editor: markdown
+dateCreated: 2022-05-24T19:30:47.756Z
+---
 
 #Root 4 Lite FAQ</strong>
 
