@@ -92,7 +92,7 @@ MDF or marine plywood are both suitable material.  It’s not essential to seal 
 > MDF is particularly prone to absorption of both sealers and paint.  Consider applying at least 2 sealing coats before painting. 
 {.is-warning}
 
-<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/insert.png" width="600">
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/insert.png" width="600">
 
 It is easier to decide on any mounting hardware options before assembly, along with drilling holes and mounting inserts.
 
@@ -104,7 +104,7 @@ It is easier to decide on any mounting hardware options before assembly, along w
 ### Carriages
 
 Ensure any leftover support plastic inside the printed carriages is cleaned away.  A small allen key just large enough to clear the slot cut outs can help.  You may have more or less cleaning to do depending on how precise your 3D printer is creating the many internal cavities.  Gently run an M3 drill bit through the side holes to ensure the full depth is clear.
-<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/singlecarraige.png"  width="600">
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/singlecarraige.png"  width="600">
 Insert the M5x20 HEX head bolts (4 for each carriage plate), then locate an M5 washer, 625 bearing, 2nd M5 washer, and finally an M5 Loc nut.  Tighten nuts until just firm.
 
 > Don’t assemble the carriage plates on the 20mm square box sections just yet.
@@ -114,7 +114,7 @@ Insert the M5x20 HEX head bolts (4 for each carriage plate), then locate an M5 w
 - [R4L Part one](https://youtu.be/DjvXqU2bEzY?t=489) 8:09 onwards
 
 ### Y Axis Sections
-<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/yaxis_sections.png" width="600">
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/yaxis_sections.png" width="600">
 > Note:  If you intend to mount endstop switches at the front of the Y rails, or include wiring for future accessories, remember to run your shielded cable through the box section rails and Y axis boxmounts BEFORE assembly.
 {.is-info}
 
@@ -125,11 +125,11 @@ TBD
 
 ### Y Rails and Carriages 
 Now assemble a pair of carriage plates on each Y rail.  Insert 4 M5x60mm Pan head bolts through the top carriage plate, an M5 washer and M5 nut on the other side, then the bottom carriage plate (on other side of the Y rail box section), then another M5 washer, and finally an M5 loc nut.  When all 4 M5x60 bolts are in place, gently but firmly tighten the loc nuts.  These need to be firm enough that the carriages sit firmly on the box sections with any rocking movement.  Slide the assembled carriage back and forth and check each of the 4x625 bearings is moving smoothly – if one or more aren’t rolling properly, then consider tightening the respective bolt a little more.  
-<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/carraiges.png" width="600">
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/carraiges.png" width="600">
 
 For the inward facing side of the carriages, it is worth seating M3 nuts in the various slots/cavities ready for later bolting to side panels and Z axis assembly.  To do this, pop an M3 nut into the top or bottom carriage slots.  Using an M3x30mm bolt, locate the nut onto the bolt, then tighten the bolt so the nut is pulled down into the hex-shaped cavity within the carriage.  It is particular helpful to do this for panel-facing sides of the carriages.  If any of the nuts don’t seat firmly, it might be helpful to put some masking tape over the nut slots to stop these escaping.
 
-<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/baseboardfeet.png" width="600">
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/baseboardfeet.png" width="600">
 In a similar fashion, locate 4xM3 nuts in the front and rear slots near the base of each Y axis boxmount.  Locate the Y Axis boxmounts over the baseboard mounting holes.  Insert M3x30mm bolts from the bottom, located through a Y axis “foot”, up through the baseboard and up into the boxmount.  Gently tighten each M3 bolt with an allen key – consider inserting a small set of pliers into the boxmount slots to stop the M3 nuts popping out of their locating holes as the M3 bolts are tightened.  
 
 Only loosely tighten each M3 bolt.  When both rail assemblies are mounted, check they are square on the baseboard and separated by the same distance at front and rear.  When positioned correctly, firmly tighten each M3 bolt from under the baseboard.   
