@@ -195,3 +195,24 @@ Mount the Z axis linear rail mount to the X axis carriages.  Make sure you have 
 
 #### Attaching linear rail mount Video Reference
 Attaching linear rail mount to X axis carriages R4L Part one [LINK](https://youtu.be/DjvXqU2bEzY?t=711) (11:51)
+
+### Mounting the X Axis gantry to the Y rails
+Attach each panel to the carriages on the Y rails using M3 bolts and washers – you should have previously installed and seated the M3 nuts inside the carriages, but if you didn’t do so now.  Only loosely tighten each bolt, enough to ensure the corresponding M3 nut has retracted back into the carriage and not spinning.  You may need to use a small screwdriver or allen key on some of these to stop them spinning until they tighten down properly into the recess inside the carriage.
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/GantryMounting.png" width="600">
+
+#### Attaching X gantry to Y rails Video Reference
+Attaching X gantry to Y rails - R4L Part three [LINK](https://youtu.be/_y3V89cwmr8?t=331) (5:31)
+
+Once all 16 bolts are in place, check the gantry is as close to vertical as possible, relative to the baseboard, using a large setsquare.  Take your time doing this, as it will result in properly square machine later on.  Check the X and Y rails are moving freely.  Tighten down the M3 bolts attaching the side panels to the Y rail carriages.   
+
+If you left one Y rail only loosely tightened down on to the baseboard, now is the time to check again the Y rails are square and properly space to all the X gantry to slide smoothly fully forward and back.  Once satisfied, tighten down the M3 bolts to firmly lock into position this Y rail.  Don’t be too concerned if the machine isn’t perfectly square when the X gantry if fully forward or back – GRBL can autosquare out minor differences in the location of the Y rails and X gantry assemblies.   Check again the bolts on the X gantry and those attaching the sides panels are all firmly tightened.  
+
+> Congratulations – you’ve now got something that’s starting to look like a CNC!  
+{.is-info}
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/Root4_Dry.png" width="600">
+
+#### Basic Motion Video Reference
+End of R4L Part three [LINK](https://youtu.be/_y3V89cwmr8?t=331) (note Pete has already installed the X axis ballscrew in the pic)
+
