@@ -106,7 +106,7 @@ It is easier to decide on any mounting hardware options before assembly, along w
 
 If you want to build a different size machine, there is a handly calculator to work out the size of the machine vs build area vs length of box sections: [LINK Working Area Spreadsheet](https://github.com/RootCNC/Root_4_Lite/blob/main/Working%20Area.xlsx)
 
-There is also a handy tool to generate the a matrix of mounting holes within the baseboard, to aid in the mounting of work peices. This tool can be brought and downloaded from the store {Drill Location spreadsheet tool](https://rootcnc.com/product/drill-location-spreadsheet/)
+There is also a handy tool to generate the a matrix of mounting holes within the baseboard, to aid in the mounting of work peices. This tool can be brought and downloaded from the store [Drill Location spreadsheet tool](https://rootcnc.com/product/drill-location-spreadsheet/)
 
 #### Baseboard Video reference
 - [R3L detailed build](https://youtu.be/z-iaeO7dcOc?t=655)  - 10:55 onwards
@@ -137,9 +137,6 @@ Don’t mount the Y rails just yet – its best to assemble a carriage onto each
 Video reference:  R4L Part two [Link](https://www.youtube.com/watch?v=-5PmiW85Cyw&t=618s) 8:47 onwards
 
 
-#### Y Axis Video Reference
-TBD
-
 ### Y Rails and Carriages 
 Now assemble a pair of carriage plates on each Y rail.  Insert 4 M5x60mm Pan head bolts through the top carriage plate, an M5 washer and M5 nut on the other side, then the bottom carriage plate (on other side of the Y rail box section), then another M5 washer, and finally an M5 loc nut.  When all 4 M5x60 bolts are in place, gently but firmly tighten the loc nuts.  These need to be firm enough that the carriages sit firmly on the box sections with any rocking movement.  Slide the assembled carriage back and forth and check each of the 4x625 bearings is moving smoothly – if one or more aren’t rolling properly, then consider tightening the respective bolt a little more.  
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/carraiges.png" width="600">
@@ -153,7 +150,7 @@ Only loosely tighten each M3 bolt.  When both rail assemblies are mounted, check
 
 
 #### Y Rails and Carriages Video Reference
-R4L Part three {Link](https://www.youtube.com/watch?v=_y3V89cwmr8) 7:22 onwards
+R4L Part three [Link](https://www.youtube.com/watch?v=_y3V89cwmr8) 7:22 onwards
 
 
 ### X Gantry Assembly
@@ -177,6 +174,7 @@ Drill/clean out the M3 holes for the linear rails and rear mounting holes on to 
 
 
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/top_bearing.png" width="600">
+
 > The top of the linear rails should be flush with the very top of the linear rail mount assembly, or just below.
 {.is-info}
 
@@ -208,7 +206,7 @@ Once all 16 bolts are in place, check the gantry is as close to vertical as poss
 
 If you left one Y rail only loosely tightened down on to the baseboard, now is the time to check again the Y rails are square and properly space to all the X gantry to slide smoothly fully forward and back.  Once satisfied, tighten down the M3 bolts to firmly lock into position this Y rail.  Don’t be too concerned if the machine isn’t perfectly square when the X gantry if fully forward or back – GRBL can autosquare out minor differences in the location of the Y rails and X gantry assemblies.   Check again the bolts on the X gantry and those attaching the sides panels are all firmly tightened.  
 
-> Congratulations – you’ve now got something that’s starting to look like a CNC!  
+> Congratulations – you’ve now got something that’s starting to look like a CNC!  :) 
 {.is-info}
 
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/Root4_Dry.png" width="600">
