@@ -44,7 +44,9 @@ YouTube – make sure you’re familiar with the 4 R4L assembly videos:
 
 ## Planning and Preparation
 ### Practicalities
-Where is your machine going to live, and can your significant other or neighbours cope with the noise and dust?  How much space do you realistically have available.  What materials do you expect to be cutting?  The Root 4 Lite is a great compromise between relatively easy to understand parts, few special tools, strong design, and flexible sizing options.  
+Where is your machine going to live, and can your significant other or neighbours cope with the noise and dust?  How much space do you realistically have available.  What materials do you expect to be cutting?  The Root 4 Lite is a great compromise between relatively easy to understand parts, few special tools, strong design, and flexible sizing options. 
+
+The majority of 3D parts are not overly complex, show thoughtful design to avoid weak points, and will fit on the baseplate of a modest 3D printer (200x200mm).  
 
 ### 3D printed parts
 These need to be dimensionally precise – check your printer is calibrated and capable of reproducing parts to correct sizing.  Consider printing a 20mm [calibration cube](https://www.thingiverse.com/thing:1278865).  Aim to print with more walls than usual (e.g. 3-6), higher % infill.  Layer sizes of 0.3 – 0.4 mm printed in PLA, PLA+, or ABS should all be fine.  Where supports are required be prepared to remove as much of this as possible later.  Most parts contain cavities or indentations for receiving bolts and nuts – check these spots are particularly clean before assembly begins.
@@ -77,13 +79,19 @@ If you’re not going to buy all the required parts straight away, consider at l
 - M3x14mm cap head bolts 
 	- M3 nuts
 	- M3 standard and penny washer
+- Side panels
+- Baseboard 
+- Box sections (aluminum or steel)
+- Consider buying a set of bolts, washers and screws off Aliexpress or eBay initially 
+	-E.g. “1080pcs M2/M3/M4/M5 stainless steel bolts nuts screws heax head assorted”
+	- (then buy specific items as needed afterwards)
 
 ### Tools
 A set of extra-long Allen Keys with “ball ends” is recommended for R4L assembly.  Although not essential, these make some assembly steps (e.g. mounting steppers to motor mounts) much easier.
 
 ## Assembly
 
->General Notes:  The assembly guide below is a suggestion on how to proceed.   Steps may not necessarily have to be executed in the order shown, but others have this a safe way to put the R4L together.
+>General Notes:  The assembly guide below is a suggestion on how to proceed.   Steps may not necessarily have to be executed in the order shown, but others have found this a safe way to put the R4L together.
 {.is-info}
 
 ### Baseboard Preparation
@@ -96,9 +104,13 @@ MDF or marine plywood are both suitable material.  It’s not essential to seal 
 
 It is easier to decide on any mounting hardware options before assembly, along with drilling holes and mounting inserts.
 
+If you want to build a different size machine, there is a handly calculator to work out the size of the machine vs build area vs length of box sections: [LINK Working Area Spreadsheet](https://github.com/RootCNC/Root_4_Lite/blob/main/Working%20Area.xlsx)
+
+There is also a handy tool to generate the a matrix of mounting holes within the baseboard, to aid in the mounting of work peices. This tool can be brought and downloaded from the store {Drill Location spreadsheet tool](https://rootcnc.com/product/drill-location-spreadsheet/)
+
 #### Baseboard Video reference
-- [R3L detailed build](https://www.youtube.com/watch?v=z-iaeO7dcOc)  - 10:55 onwards
-- [R4L Part one](https://www.youtube.com/watch?v=DjvXqU2bEzY) 7:49 onwards)
+- [R3L detailed build](https://youtu.be/z-iaeO7dcOc?t=655)  - 10:55 onwards
+- [R4L Part one](https://youtu.be/DjvXqU2bEzY?t=469) 7:49 onwards)
 
 
 ### Carriages
@@ -115,10 +127,15 @@ Insert the M5x20 HEX head bolts (4 for each carriage plate), then locate an M5 w
 
 ### Y Axis Sections
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/yaxis_sections.png" width="600">
-> Note:  If you intend to mount endstop switches at the front of the Y rails, or include wiring for future accessories, remember to run your shielded cable through the box section rails and Y axis boxmounts BEFORE assembly.
+
+> Note If you intend to mount endstop switches at the front of the Y rails, or include wiring for future accessories, remember to run your shielded cable through the box section rails and Y axis boxmounts BEFORE assembly.
 {.is-info}
 
 Check the 4 box section lengths against the sizing spreadsheet for your planned build.  Make sure each end is filed slightly to take the off the edges and corners that will be inserted into the 3D printed Y Axis boxmount.  The Y axis rails will fit approx. 20mm inside each Y boxmount – do a pre-assembly check that the each rail with the 2 boxmounts attached will locate correctly on the baseboard holes.  Lightly mark each rail 20mm in from the end to ensure proper seating.  Using a mallet or wood block and hammer, knock the rail into each Y axis boxmount.  
+
+Don’t mount the Y rails just yet – its best to assemble a carriage onto each rail before you mount rails to the baseboard.  
+Video reference:  R4L Part two [Link](https://www.youtube.com/watch?v=-5PmiW85Cyw&t=618s) 8:47 onwards
+
 
 #### Y Axis Video Reference
 TBD
@@ -136,4 +153,45 @@ Only loosely tighten each M3 bolt.  When both rail assemblies are mounted, check
 
 
 #### Y Rails and Carriages Video Reference
+R4L Part three {Link](https://www.youtube.com/watch?v=_y3V89cwmr8) 7:22 onwards
 
+
+### X Gantry Assembly
+As per the Y rails, make sure there are no sharp corners or edges on each end of the X rails (box sections).  Using a mallet, gently knock each X rail into a single X-axis boxmount, making sure the completely flat outside surface of the boxmount is facing out from the box section rails.  Sit this out flat face on a block of wood when bumping in each X box section rail to ensure the end of the box section sits flush with the outside surface of the boxmount.  
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/X_GantryMallet.png" width="600">
+
+#### X Gantry Rails Video Reference
+X Gantry Rails  R4L Part one [LINK](https://youtu.be/DjvXqU2bEzY?t=572) (9:30)
+
+> Note that one end of the X-axis boxmount has a hollowed out space where the X axis endstops will eventually be mounted (circled in red).  This end will be pointing vertically UP.  
+{.is-warning}
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/Sidehighlight.png" width="600">
+
+Now go ahead and mount the remaining 2 carriages on the X rails.  Just as you did for the Y rails, use M5x60mm Pan head bolts (bolt pointing downwards), M5 nuts, washers and loc nuts.  It’s worth using loc nuts on the bottom to ensure the correct mounting pressure on the rails - and also protect against spindle vibrations shaking these loose which will minimize the need for constant maintenance.  
+
+Now is also a good time to drill and clean out the M3 holes on the gantry side facing the front of the machine and seat some M3 nuts in the carriage slots (again, same as previously done for the Y rails)
+
+### Z Axis Linear Rail Mount Preparation
+Drill/clean out the M3 holes for the linear rails and rear mounting holes on to the X gantry carriages.  Check the orientation of your linear rails before bolting them to the Z carriage – if at all possible you want to very top of the linear rail to be flush with the top of the Mount assembly (so that when we later mount an FK10 bearing block on the top of the linear rail mount it will be able to sit flat).  
+
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/top_bearing.png" width="600">
+> The top of the linear rails should be flush with the very top of the linear rail mount assembly, or just below.
+{.is-info}
+
+Go ahead and mount the linear rails with M3x10 (or 8mm) bolts.  Slide the cars on to the linear rails. 
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/Z_Axis_Mounting.png" width="600">
+
+#### Linear bearings Video Reference
+Linear bearings being mounted R4L Part one [LINK](https://youtu.be/DjvXqU2bEzY?t=626) (10:26)
+
+> Use 2 long bolts temporarily for the bottom most holes on the linear rails – to stop the cars sliding off the rails during later stages, until we eventually mount the Z axis carriage to these.
+{.is-info}
+
+### Mount the Z axis linear rail mount
+Mount the Z axis linear rail mount to the X axis carriages.  Make sure you have the rail mount orientated right way up (Large FK10 bearing mount facing upwards).  Don’t be in a hurry to tighten down until all 16 bolts are seated loosely in their respective M3 nut, and the nut has retracted and seated into the carriage assembly so that it is held firmly and not rotating.  Once all bolts and nuts are seated and firm, then proceed to tighten everything up. Slide a 608 bearing into the bottom bearing mount of the linear rail mount – you shouldn’t have to squeeze too hard to get this in – consider running some sandpaper around the inside of the bearing mount to remove any rough plastic if the bearing doesn’t slide into please easily.
+
+#### Attaching linear rail mount Video Reference
+Attaching linear rail mount to X axis carriages R4L Part one [LINK](https://youtu.be/DjvXqU2bEzY?t=711) (11:51)
