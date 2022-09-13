@@ -39,6 +39,8 @@ Infill: 50-60%
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/x_axis_boxmount.png" width="600">
 
 # X_Axis_MotorMount.STL
+
+> Needs supports, print with hex nut end down
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/x_axis_motormount.png" width="600">
 
 # X_Y_Axis_Carriage.STL
