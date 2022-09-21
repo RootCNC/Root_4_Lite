@@ -37,8 +37,8 @@
 # Electronics/ Electro Mechanical
 | Item               | Required | QTY    | Link|
 |----------------------------------|----------|--------|-----|
-|Root CNC ESP32-GRBL Controller |Yes|1|Comming Soon|
-|Root CNC Controller Motor breakout (non-isolated) |Yes|1|Comming Soon|
+|Root CNC ESP32-GRBL Controller |Yes|1|[LINK](https://rootcnc.com/product/root-controller-rev-2-1/)|
+|Root CNC Controller Motor breakout (non-isolated) used DVR8825 or similar driver (Buy an isolated stepper driver) |Yes|1|Obsolete|
 |DRV8825 or similar stepper motor drivers|Yes|4|[LINK](https://s.click.aliexpress.com/e/_A3iYCN) [LINK](https://s.click.aliexpress.com/e/_97wkVB) [UK LINK](https://amzn.to/3yf2EHw)
 | Nema 17 Bipolar 59Ncm (84oz.in) 2A              | Yes       | 4      | [LINK](https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17hs19-2004s1?tracking=5efc6f6300e83) [LINK](https://www.omc-stepperonline.com/5pcs-of-nema-17-bipolaire-59ncm-84oz-in-2a-42x48mm-4-fils-w-1m-cable-connector-5-17hs19-2004s1?tracking=5efc6f6300e83)
 |1.5KW Spindle with VFD|Yes|1|[LINK_1](https://s.click.aliexpress.com/e/_dX0JKm3) [LINK_2](https://s.click.aliexpress.com/e/_dT4xs63) [LINK_3](https://s.click.aliexpress.com/e/_dSjt6gr) [LINK_4](https://s.click.aliexpress.com/e/_dSUhh43)
