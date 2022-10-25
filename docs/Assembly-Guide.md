@@ -1,4 +1,3 @@
-
 ---
 title: Root 4 Lite Assembly Guide
 description: Root 4 Lite Assembly Guide for Newbies
