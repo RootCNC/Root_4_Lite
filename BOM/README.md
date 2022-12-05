@@ -53,7 +53,7 @@
 |625 Bearings               | Yes       | 38      |[LINK](https://s.click.aliexpress.com/e/_9iRVbr),  [LINK](https://s.click.aliexpress.com/e/_Ac5QYN),  [UK LINK](https://amzn.to/33OCsFN)|
 |MGN12 150mm + (MGN12C x2)              | Yes       | 2      |[LINK](https://s.click.aliexpress.com/e/_A4Rr41)|
 |GT2 Pulley 5mm Bore (16T)              | Yes       | 1       |[LINK](https://s.click.aliexpress.com/e/_9wTL2N),  [LINK](https://s.click.aliexpress.com/e/_9hLamt), [UK LINK](https://amzn.to/3waEtbq)|
-|GT2 Pullet 8mm Bore (22T)              | Yes       | 1      |[LINK](https://s.click.aliexpress.com/e/_9wTL2N) |
+|GT2 Pulley 8mm Bore (22T)              | Yes       | 1      |[LINK](https://s.click.aliexpress.com/e/_9wTL2N) |
 |GT2 Closed loop belt (252T)              | Yes       |  1     ||
 |Lead Screw 1204 400mm Long SFU1204               | Yes       | 3      |[LINK](https://s.click.aliexpress.com/e/_9jDD3X),  [UK LINK](https://amzn.to/3eQJNLg)|
 |Lead Screw 1204 200mm Long SFU1204               | Yes       | 1      |[LINK](https://s.click.aliexpress.com/e/_Akbvnn), [UK LINK](https://amzn.to/3olI2sE)|
