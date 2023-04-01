@@ -22,7 +22,7 @@ Root 4 Lite is deisgned to be a **low cost high performance CNC machine** that a
 - Aux rails for mounting a laser or dust shoe
 - All ballscrew design
 - Linear guide Z Axis
-- Driect Drive Motors
+- Direct Drive Motors
 - Full VFD support
 
 ## Videos
