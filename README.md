@@ -27,7 +27,7 @@ Root 4 Lite is deisgned to be a **low cost high performance CNC machine** that a
 
 ## Videos
 
-Youtube Videos can be found [Here](https://www.youtube.com/sailorpete12)
+YouTube Videos can be found [Here](https://www.youtube.com/sailorpete12)
 
 ### Detailed build Videos
 
