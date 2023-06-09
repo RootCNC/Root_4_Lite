@@ -41,6 +41,7 @@ Infill: 50-60%
 # X_Axis_MotorMount.STL
 
 > Needs supports, print with hex nut end down
+
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/x_axis_motormount.png" width="600">
 
 # X_Y_Axis_Carriage.STL
@@ -52,17 +53,50 @@ Infill: 50-60%
 # Y_Axis_BoxMount.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_boxmount.png" width="600">
 
+This piece needs some support, you can paint it like this (you need it only for the leg, everything else prints just fine without support):
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_boxmount-painted_support.png" width="600">
+
+Here's how the support will look like. It will be easy to remove and it's on internal faces, so it will not be visible once mounted.
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_boxmount-rendered_support.png" width="600">
+
 # Y_Axis_Foot.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_foot.png" width="600">
 
 # Y_Axis_Idler.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_idler.png" width="600">
 
+This piece needs a little support, you can paint it like this:
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_idler-painted_support.png" width="600">
+
+Here's how the support will look like. It will be easy to remove and it's on a down facing spot, so it will not be visible once mounted.
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_idler-rendered_support.png" width="600">
+
 # Y_Axis_Motor_FK10_BearingMount.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_motor_fk10_bearingmount.png" width="600">
 
+This part needs some support for both the long bridges and the hex bolt point. I (Valerioa) forgot to add support on the hex bolt overhang and got a big blob (the part will be probably usable, but a bit support should result in a better print)
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_motor_fk10_bearingmount-painted_support.png" width="600">
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/y_axis_motor_fk10_bearingmount-rendered_support.png" width="600">
+
 # Z_Axis_Carriage_65mm.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/z_axis_carriage_65mm.png" width="600">
+
+This is probably one of the biggest, heaviest and longest prints for this project, so you definitely want to get it right on the first print.
+You'll need support for the entire bottom face of the ballscrew bolt mount. To preserve your sanity, add the support only on the bottom face, without going into the bolt's holes. Going into the bolt's holes is not necessary and the support will be a pain to remove, with the risk of damaging the hole's shape.
+Here's quoted a post from RobF from the discord channel talking about this piece:
+"The bottom face and holes on my primitive printer were a bit "grotty", but it doesn't matter as you only need to be able to get your hex nuts into those 6 holes and the bolts above will pull them up into the recess and crush any little bits of support you missed.  Its all facing down and hidden at the back of the carriage so no-one will see it. I was initially a bit concerned how structurally sound it would all come out, but the Z axis assembly and strong bolts ensures its all rock solid in the end."
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/z_axis_carriage_65mm-painted_support.png" width="600">
+
+Here's how it will look like. Small supports can be added to support the bridging on the sides. They should print fine without supports if your printer is well tuned for bridging, but on a 10+ hours print it's marginal in terms of both print time and wasted material, so better safe than sorry.
+
+<img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/z_axis_carriage_65mm-rendered_support.png" width="600">
 
 # Z_Axis_LinearRailMount.STL
 <img src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/docs/Print-Info/z_axis_linearrailmount.png" width="600">
