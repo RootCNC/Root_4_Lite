@@ -4,25 +4,25 @@
 
 |	3D Printed Parts  	|	Required	|	QTY	|	Total Weight (g)	|
 |	-------	|	------	|	-------	|	-------	|
-|	Y_Axis_BoxMount.STL	|	4	|	YES	|	232g	|
-|	Z_Y_Axis_BallscrewSpacer.STL	|	3	|	YES	|	39g	|
-|	X_Axis_MotorMount.STL	|	1	|	YES	|	30g	|
-|	X_Y_Axis_Carriage.STL	|	8	|	YES	|	344g	|
-|	X_Axis_BearingIdler.STL	|	1	|	YES	|	17g	|
-|	Y_Axis_Idler.STL	|	2	|	YES	|	28g	|
-|	Z_Axis_Carriage_65mm.STL	|	1	|	YES	|	200g	|
-|	Z_Axis_LinearRailMount.STL	|	1	|	YES	|	110g	|
-|	Y_Aixs_DragChainMount.STL	|	1	|	YES	|	20g	|
-|	X_Aixs_DragChainMount.STL	|	1	|	YES	|	15g	|
-|	Z_Axis_MotorMount.STL	|	1	|	YES	|	40g	|
-|	Y_Axis_Foot.STL	|	4	|	YES	|	32g	|
-|	X_Axis_BoxMount.STL	|	2	|	YES	|	138g	|
-|	DustShoe_Bottom.STL	|	1	|	YES	|	46g	|
-|	DustShoe_Rail_Right.STL	|	1	|	YES	|	17g	|
-|	DustShoe_Rail_Left.STL	|	1	|	YES	|	17g	|
-|	Y_Axis_Motor_FK10_BearingMount.STL	|	2	|	YES	|	70g	|
-|	Y_Axis_Endstop_Spacer.STL	|	1	|	NO	|	0g	|
-|	Y_Axis_AdjEndstop.STL	|	1	|	NO	|	0g	|
+|	Y_Axis_BoxMount.STL	|	YES | 4	|	232g	|
+|	Z_Y_Axis_BallscrewSpacer.STL	|	YES | 3	|	39g	|
+|	X_Axis_MotorMount.STL	|	YES | 1	|	30g	|
+|	X_Y_Axis_Carriage.STL	|	YES | 8	|	344g	|
+|	X_Axis_BearingIdler.STL	|	YES | 1	|	17g	|
+|	Y_Axis_Idler.STL	|	YES | 2	|	28g	|
+|	Z_Axis_Carriage_65mm.STL	|	YES | 1	|	200g	|
+|	Z_Axis_LinearRailMount.STL	|	YES | 1	|	110g	|
+|	Y_Aixs_DragChainMount.STL	|	YES | 1	|	20g	|
+|	X_Aixs_DragChainMount.STL	|	YES | 1	|	15g	|
+|	Z_Axis_MotorMount.STL	|	YES | 1	|	40g	|
+|	Y_Axis_Foot.STL	|	YES | 4	|	32g	|
+|	X_Axis_BoxMount.STL	|	YES | 2	|	138g	|
+|	DustShoe_Bottom.STL	|	YES | 1	|	46g	|
+|	DustShoe_Rail_Right.STL	|	YES | 1	|	17g	|
+|	DustShoe_Rail_Left.STL	|	YES | 1	|	17g	|
+|	Y_Axis_Motor_FK10_BearingMount.STL	|	YES | 2	|	70g	|
+|	Y_Axis_Endstop_Spacer.STL	|	NO | 1	|	0g	|
+|	Y_Axis_AdjEndstop.STL	|	NO | 1	|	0g	|
 |		|		|		|	Filament Used = 1395g	|
 
 
